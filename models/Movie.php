@@ -13,6 +13,11 @@
     public $length;       // Duração do filme
     public $users_id;     // ID do usuário associado ao filme (se aplicável)
 
+    public $rating;
+
+    public $user;
+    
+
     // Gera um nome aleatório para a imagem do filme com extensão .jpg
     public function imageGenerateName() {
       return bin2hex(random_bytes(60)) . ".jpg";

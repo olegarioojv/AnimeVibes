@@ -9,6 +9,7 @@
     public $review;        // Texto da avaliação
     public $users_id;      // ID do usuário que fez a avaliação
     public $movies_id;     // ID do filme avaliado
+    public ?User $user = null;
 
   }
 
