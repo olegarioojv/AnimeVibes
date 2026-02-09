@@ -93,7 +93,7 @@ AnimeVibes/
    $servername = "localhost";
    $username = "root";
    $password = "";
-   $dbname = "moviestar";
+   $dbname = "animevibes";
    ```
 
 4. **Inicie o servidor Laragon**
