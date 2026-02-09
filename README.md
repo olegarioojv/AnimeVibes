@@ -151,16 +151,11 @@ AnimeVibes/
 
 ## 📸 Demo do Projeto
 
-Confira o vídeo demonstrativo do AnimeVibes:
+<div align="center">
 
-<div style="text-align: center; margin: 20px 0;">
+### 🎥 Demonstração
 
-### 🎥 Vídeo de Apresentação
-
-<video width="560" height="315" controls style="display: block; margin: 0 auto;">
-  <source src="AnimeVibes.gif" type="video/mp4">
-  Seu navegador não suporta vídeos HTML5.
-</video>
+<img src="AnimeVibes.gif" alt="Demo do AnimeVibes" width="560"/>
 
 </div>
 
