@@ -172,27 +172,6 @@ As categorias estão armazenadas no banco de dados. Para adicionar novas:
 
 Modifique o arquivo `css/styles1.css` para alterar a aparência visual.
 
-## 📞 Suporte
-
-Para dúvidas ou problemas:
-
-1. Verifique se o banco de dados está corretamente importado
-2. Confirme se o servidor PHP está rodando
-3. Revise os logs do PHP em `db.php`
-
-## 📄 Licença
-
-Este é um projeto educacional. Sinta-se livre para usar e modificar.
-
-## ✨ Melhorias Futuras
-
-- [ ] Sistema de recomendações
-- [ ] Integração com redes sociais
-- [ ] App mobile
-- [ ] Sistema de notificações
-- [ ] Favoritos/Watchlist
-- [ ] Ratings com estrelas
-
 ---
 
 **Desenvolvido com ❤️**
