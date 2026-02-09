@@ -157,16 +157,10 @@ Confira o vídeo demonstrativo do AnimeVibes:
 
 ### 🎥 Vídeo de Apresentação
 
-```html
-<video width="560" height="315" controls>
-  <source src="AnimeVibes gif.mp4" type="video/mp4" />
+<video width="560" height="315" controls style="display: block; margin: 0 auto;">
+  <source src="AnimeVibes gif.mp4" type="video/mp4">
   Seu navegador não suporta vídeos HTML5.
 </video>
-```
-
-Ou faça download direto:
-
-- [Baixar vídeo](AnimeVibes%20gif.mp4)
 
 </div>
 
